@@ -1,0 +1,2 @@
+# splash
+static start page,
